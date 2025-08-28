@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "gestaodeh.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gestaodeh.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gestaodeh.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gestaodeh.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gestaodeh.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'gestaodeh.app.jwtSecret'"
+  },
+  {
+    "name": "gestaodeh.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'gestaodeh.app.jwtExpirationMs'"
+  },
+  {
+    "name": "gestaodeh.app.uploadDir",
+    "type": "java.lang.String",
+    "description": "A description for 'gestaodeh.app.uploadDir'"
+  }
+]}
